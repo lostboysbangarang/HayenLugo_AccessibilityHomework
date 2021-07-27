@@ -59,7 +59,7 @@ p {
 }
 #hero img {
     width: 100vw;
-    clip-path: polygon(0% 0%, 100% 0%, 100% 48%, 0% 48%);
+    height: 100%;
 }
 
 
