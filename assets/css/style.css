@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* I don't know how much of this code you want commented */
 body {
     background-color: #d9dcd6;
 }
@@ -18,7 +18,7 @@ p {
 }
 
 
-
+/* Lines 22-34 are stylizing the header and elements within */
 #header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,6 +59,7 @@ p {
 }
 #hero img {
     width: 100vw;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 48%, 0% 48%);
 }
 
 
